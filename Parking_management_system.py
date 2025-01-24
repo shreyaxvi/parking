@@ -31,11 +31,7 @@ def introduction():
           system
 
           The whole project is divided into four major parts ie addition of data, modification, searching and 
-          reporting. all these part are further divided into menus for easy navigation
-
-          NOTE: Python is case-SENSITIVE so type exact Column Name wherever required.
-
-          If you have any query or suggestions please contact me at rakesh@binarynote.com \n\n\n\n'''
+          reporting. all these part are further divided into menus for easy navigation \n\n\n\n'''
     for x in msg:
         print(x, end='')
         time.sleep(0.002)
